@@ -34,7 +34,7 @@ SWYNEX-Git-Workflow-and-Project-Baseline/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/SWYNEX-Git-Workflow-and-Project-Baseline.git
+git clone https://github.com/abhinav202404155/SWYNEX-Git-Workflow-and-Project-Baseline.git
 cd SWYNEX-Git-Workflow-and-Project-Baseline
 ```
 
