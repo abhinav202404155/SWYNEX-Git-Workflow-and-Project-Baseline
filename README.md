@@ -63,4 +63,4 @@ This project follows a simple branching model (`main` / `develop` / `feature/*`)
 
 ## Author
 
-Your Name — SWYNEX Technologies Intern
+Abhinav Kashyap — SWYNEX Technologies Intern
