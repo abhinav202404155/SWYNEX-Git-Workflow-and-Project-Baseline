@@ -1,4 +1,4 @@
-# SWYNEX Git Workflow and Project Baseline
+﻿# SWYNEX Git Workflow and Project Baseline
 
 Task 1 of my internship with **SWYNEX Technologies**. This repository demonstrates a clean Git workflow and a small, well-structured Python project.
 
@@ -63,4 +63,4 @@ This project follows a simple branching model (`main` / `develop` / `feature/*`)
 
 ## Author
 
-Abhinav Kashyap — SWYNEX Technologies Intern
+abhinav202404155 — SWYNEX Technologies Intern
